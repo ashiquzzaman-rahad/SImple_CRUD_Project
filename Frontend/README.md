@@ -1,4 +1,4 @@
-#Simple CRUD Fullstack project
+# Simple CRUD Fullstack project
 Used:
 - React library for frontend framework with Bootstrap for styling
 - Express framework for backend
