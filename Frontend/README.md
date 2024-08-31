@@ -1,10 +1,3 @@
-# Simple CRUD Fullstack project
-Used:
-- React library for the frontend framework with Bootstrap for styling.
-- Express framework for the backend.
-- MySQL as database.
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
