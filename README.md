@@ -7,5 +7,5 @@
 ## Features
 - Can view the student's name and email.
 - Can add student's name and email.
-- Can update exiting data.
+- Can update existing data.
 - Can delete exisiting data.
